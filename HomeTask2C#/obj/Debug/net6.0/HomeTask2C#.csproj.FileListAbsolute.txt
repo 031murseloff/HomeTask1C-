@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\HomeTaskC++p\HomeTask2C#\HomeTask2C#\obj\Debug\net6.0\HomeTask2C#.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\HomeTaskC++p\HomeTask2C#\HomeTask2C#\obj\Debug\net6.0\HomeTask2C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\HomeTaskC++p\HomeTask2C#\HomeTask2C#\obj\Debug\net6.0\HomeTask2C#.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\HomeTaskC++p\HomeTask2C#\HomeTask2C#\obj\Debug\net6.0\HomeTask2C#.AssemblyInfo.cs
+C:\Users\acer\Desktop\HomeTaskC++p\HomeTask2C#\HomeTask2C#\obj\Debug\net6.0\HomeTask2C#.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\HomeTaskC++p\HomeTask2C#\HomeTask2C#\bin\Debug\net6.0\HomeTask2C#.exe
+C:\Users\acer\Desktop\HomeTaskC++p\HomeTask2C#\HomeTask2C#\bin\Debug\net6.0\HomeTask2C#.deps.json
+C:\Users\acer\Desktop\HomeTaskC++p\HomeTask2C#\HomeTask2C#\bin\Debug\net6.0\HomeTask2C#.runtimeconfig.json
+C:\Users\acer\Desktop\HomeTaskC++p\HomeTask2C#\HomeTask2C#\bin\Debug\net6.0\HomeTask2C#.dll
+C:\Users\acer\Desktop\HomeTaskC++p\HomeTask2C#\HomeTask2C#\bin\Debug\net6.0\HomeTask2C#.pdb
+C:\Users\acer\Desktop\HomeTaskC++p\HomeTask2C#\HomeTask2C#\obj\Debug\net6.0\HomeTask2C#.dll
+C:\Users\acer\Desktop\HomeTaskC++p\HomeTask2C#\HomeTask2C#\obj\Debug\net6.0\refint\HomeTask2C#.dll
+C:\Users\acer\Desktop\HomeTaskC++p\HomeTask2C#\HomeTask2C#\obj\Debug\net6.0\HomeTask2C#.pdb
+C:\Users\acer\Desktop\HomeTaskC++p\HomeTask2C#\HomeTask2C#\obj\Debug\net6.0\HomeTask2C#.genruntimeconfig.cache
+C:\Users\acer\Desktop\HomeTaskC++p\HomeTask2C#\HomeTask2C#\obj\Debug\net6.0\ref\HomeTask2C#.dll
